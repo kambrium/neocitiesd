@@ -1,0 +1,13 @@
+{
+	"name": "neocitiesd",
+	"authors": [
+		"Martin Muehlbauer"
+	],
+	"description": "A library for Neocities written in D",
+	"copyright": "Copyright © 2017, Martin Muehlbauer",
+	"license": "MIT",
+	"dependencies": {
+    	"requests": "~>0.4.1"
+	},
+	"targetType": "library"
+}
